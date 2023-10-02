@@ -75,9 +75,9 @@ spec:
     #proxyUrl: http://10.1.2.3:8888
 
     # extensible attributes to add to each DNS record (used when "Cloud Network Automation" is enabled)
-    extAttrs:
-      "key1": "value1"
-      "key2": "value2"
+    #extAttrs:
+    #  "key1": "value1"
+    #  "key2": "value2"
   domains:
     include:
     - my.own.domain.com
